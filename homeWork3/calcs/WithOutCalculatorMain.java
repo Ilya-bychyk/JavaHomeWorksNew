@@ -1,4 +1,4 @@
-package homeWork3;
+package homeWork3.calcs;
 
 
 public class WithOutCalculatorMain {
